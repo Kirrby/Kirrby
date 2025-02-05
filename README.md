@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Kirrby!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to build cool stuff and solve problems. Here's a little about me:
 
