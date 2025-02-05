@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kirrby!
+# 👋 Hi there, I'm [Your Name]!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to build cool stuff and solve problems. Here's a little about me:
 
@@ -10,6 +10,16 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build cool
 - 📫 How to reach me: [Your Email or Social Media]
 - 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [A Fun Fact About You]
+
+## 🕹️ Play My Game!
+
+I've created a cool game using Godot Engine, and you can play it right now! Click the link below to try it out:
+
+[![Play Now](https://img.shields.io/badge/Play-在线试玩-blue?style=for-the-badge&logo=godot-engine)](https://kirrby.github.io/Godot-testgame/)
+
+**操作说明**：使用键盘方向键移动，空格键跳跃！
+
+![Game Screenshot](https://your-image-link.png)
 
 ## 🛠️ Technologies & Tools
 
@@ -32,19 +42,22 @@ Here are some stats about my GitHub activity:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-## 🎮 Fun Section
+## 🎥 Random GIF
 
-Here's a fun little game you can play right here in my README:
+Here's a random GIF to brighten your day:
 
-```python
-import random
+![Random GIF](https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif)
 
-def guess_the_number():
-    number = random.randint(1, 10)
-    guess = int(input("Guess a number between 1 and 10: "))
-    if guess == number:
-        print("You guessed it! 🎉")
-    else:
-        print(f"Oops! The number was {number}. Better luck next time! 😄")
+## 📫 Let's Connect!
 
-guess_the_number()
+Feel free to reach out to me on:
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+## 🎉 Thanks for Visiting!
+
+Thanks for stopping by! Feel free to explore my repositories and don't forget to ⭐ your favorites!
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
